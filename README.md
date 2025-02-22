@@ -1,4 +1,4 @@
-# **English Dictionary Web App**  
+# **Dictionary Web App**  
 A simple web-based dictionary that allows users to search for word meanings, examples, and synonyms.  
 
 ##  Features  
