@@ -34,7 +34,3 @@ A simple web-based dictionary that allows users to search for word meanings, exa
 - **Dictionary API**: [https://dictionaryapi.dev](https://dictionaryapi.dev)  
 - **Datamuse API**: [https://www.datamuse.com/api/](https://www.datamuse.com/api/)  
 
-## 📷 **Screenshots**  
-![Dictionary App Preview](screenshot.png) *(Add a screenshot of your project here!)*  
-
--
