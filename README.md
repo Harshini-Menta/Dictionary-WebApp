@@ -29,10 +29,11 @@ A simple web-based dictionary that allows users to search for word meanings, exa
 1. Download or clone the repository.  
 2. Open `index.html` in a browser.  
 3. Ensure an internet connection to fetch data from APIs.
-   
-## Output
-![Image](https://github.com/user-attachments/assets/709a6661-12b5-4da0-8813-41c570540ced)
+
 ## **APIs Used**  
 - **Dictionary API**: [https://dictionaryapi.dev](https://dictionaryapi.dev)  
-- **Datamuse API**: [https://www.datamuse.com/api/](https://www.datamuse.com/api/)  
+- **Datamuse API**: [https://www.datamuse.com/api/](https://www.datamuse.com/api/)
+
+## Output
+![Image](https://github.com/user-attachments/assets/709a6661-12b5-4da0-8813-41c570540ced)
 
